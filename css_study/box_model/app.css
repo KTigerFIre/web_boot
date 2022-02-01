@@ -1,0 +1,46 @@
+div {
+  width: 200px;
+  height: 250px;
+}
+
+#one {
+  background-color: rgb(243, 222, 215);
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  /* box-sizing: border-box; */
+}
+
+#two {
+  background-color: rgb(214, 170, 155);
+  border-width: 3px;
+  border: medium red solid;
+}
+
+#three {
+  background-color: rgb(139, 81, 62);
+  border-width: thick;
+  border-left-color: red;
+  border-right-color: royalblue;
+  border-style: solid;
+  border-radius: 50%;
+}
+
+h1 {
+  background-color: pink;
+  width: 100px;
+  padding: 40px 0 30px 0;
+}
+
+button {
+  /*  vertical horizontal */
+  /* padding: 5px 4px; */
+
+  /* top right bottom left */
+  padding: 10px 20px 10px 20px;
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  border-style: solid;
+}

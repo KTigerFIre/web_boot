@@ -1,0 +1,13 @@
+h1 {
+  background-color: gold;
+  border: 4px black solid;
+  display: inline;
+}
+
+span {
+  background-color: skyblue;
+  border: 2px black solid;
+  /* display: block; */
+  width: 500px;
+  padding: 5px;
+}
